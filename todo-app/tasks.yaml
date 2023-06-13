@@ -1,0 +1,10 @@
+---
+- !ruby/object:Task
+  title: Buy groceries
+  completed: true
+- !ruby/object:Task
+  title: Clean the house
+  completed: false
+- !ruby/object:Task
+  title: Buy groceries
+  completed: false
